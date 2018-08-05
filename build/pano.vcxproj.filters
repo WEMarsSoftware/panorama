@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\djorna.Pokedex\Documents\WEMars\rover-kinect\Panorama\Panorama.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\djorna.Pokedex\Documents\WEMars\rover-kinect\Panorama\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F5085C26-048B-3172-8299-22F5867FFEE5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

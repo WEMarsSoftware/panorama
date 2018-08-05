@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\djorna.Pokedex\Documents\WEMars\rover-kinect\Panorama\build\CMakeFiles\b250ddf7177c2457be6fa190168457ab\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D7B7E25F-FE71-303E-8C2C-456F7C2C2521}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+C:/Users/djorna.Pokedex/Documents/WEMars/rover-kinect/Panorama/build/CMakeFiles/pano.dir
+C:/Users/djorna.Pokedex/Documents/WEMars/rover-kinect/Panorama/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/djorna.Pokedex/Documents/WEMars/rover-kinect/Panorama/build/CMakeFiles/ZERO_CHECK.dir
